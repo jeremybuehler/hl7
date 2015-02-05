@@ -1,0 +1,11 @@
+{
+  "name": "hl7",
+  "version": "0.0.1",
+  "description": "node hl7 server",
+  "main": "./lib/hl7",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
